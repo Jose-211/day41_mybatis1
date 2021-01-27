@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c71a8f0-ffbf-4eee-b1b0-f3450b6adbb3" name="Default Changelist" comment="第一次测试">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/day41_mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day41_mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/first/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/first/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/first/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/first/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/mapper/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/mapper/EmpMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/mapper/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/mapper/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/first/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/first/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/first/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/first/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/mapper/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/mapper/EmpMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/mapper/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qfedu/mapper/EmployeeDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis.xml" afterDir="false" />
+    <list default="true" id="1c71a8f0-ffbf-4eee-b1b0-f3450b6adbb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qfedu/mapper/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="109" column="21" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+            <state relative-caret-position="162">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -207,9 +180,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="92" />
-    <option name="width" value="1087" />
+    <option name="x" value="48" />
+    <option name="y" value="40" />
+    <option name="width" value="1403" />
     <option name="height" value="903" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -243,6 +216,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day41_mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day41_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day41_mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day41_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qfedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day41_mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day41_mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qfedu" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="day41_mybatis" type="b2602c69:ProjectViewProjectNode" />
@@ -348,17 +348,25 @@
       <option name="presentableId" value="Default" />
       <updated>1611537461649</updated>
       <workItem from="1611537487041" duration="14947000" />
-      <workItem from="1611733529055" duration="3306000" />
+      <workItem from="1611733529055" duration="4807000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次测试">
+      <created>1611740889110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611740889110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18253000" />
+    <option name="totallyTimeSpent" value="19754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="74" width="869" height="722" extended-state="0" />
+    <frame x="39" y="32" width="1122" height="722" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34771886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2650376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -382,7 +390,7 @@
       <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
       <window_info anchor="right" id="Word Book" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24907522" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.3295129" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -398,6 +406,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次测试" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次测试" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qfedu/first/Employee.java">
@@ -503,8 +515,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qfedu/mapper/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="109" column="21" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+        <state relative-caret-position="162">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
